@@ -15,8 +15,8 @@ const imFellEnglish = IM_Fell_English({
 });
 
 export const metadata: Metadata = {
-  title: "Bad at Math Quiz",
-  description: "A trick-question quiz about overconfidence, assumptions, and reasoning mistakes.",
+  title: "bad at math quiz",
+  description: "a trick-question quiz about overconfidence, assumptions, and reasoning mistakes.",
 };
 
 export default function RootLayout({
