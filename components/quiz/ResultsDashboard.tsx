@@ -26,7 +26,7 @@ export function ResultsDashboard({ attempts, onRestart }: ResultsDashboardProps)
             <p className="text-[11px] lowercase tracking-[0.08em] text-[#888880]">
               final dashboard
             </p>
-            <h1 className="font-serif text-[32px] font-normal leading-tight text-[#1a1a18] md:text-[42px]">You versus trick questions</h1>
+            <h1 className="font-serif text-[32px] font-normal leading-tight text-[#1a1a18] md:text-[42px]">you versus trick questions</h1>
             <p className="max-w-2xl text-[12px] leading-7 text-[#888880] md:text-[13px]">
               This score is less about arithmetic and more about whether you slowed down, read carefully, and resisted the obvious answer.
             </p>
@@ -57,7 +57,7 @@ export function ResultsDashboard({ attempts, onRestart }: ResultsDashboardProps)
       <div className="grid gap-6 lg:grid-cols-[1.1fr_0.9fr]">
         <Card className="space-y-4">
           <div>
-            <h2 className="font-serif text-[28px] font-normal text-[#1a1a18]">Trap type breakdown</h2>
+            <h2 className="font-serif text-[28px] font-normal text-[#1a1a18]">trap type breakdown</h2>
             <p className="mt-1 text-[12px] text-[#888880]">
               Which kinds of questions caused the most trouble.
             </p>
@@ -86,7 +86,7 @@ export function ResultsDashboard({ attempts, onRestart }: ResultsDashboardProps)
 
         <Card className="space-y-4">
           <div>
-            <h2 className="font-serif text-[28px] font-normal text-[#1a1a18]">Confidence vs correctness</h2>
+            <h2 className="font-serif text-[28px] font-normal text-[#1a1a18]">confidence vs correctness</h2>
             <p className="mt-1 text-[12px] text-[#888880]">
               A quick read on whether certainty matched reality.
             </p>
@@ -119,7 +119,7 @@ export function ResultsDashboard({ attempts, onRestart }: ResultsDashboardProps)
       <Card className="space-y-4">
         <div className="flex flex-wrap items-center justify-between gap-4">
           <div>
-            <h2 className="font-serif text-[28px] font-normal text-[#1a1a18]">Missed question review</h2>
+            <h2 className="font-serif text-[28px] font-normal text-[#1a1a18]">missed question review</h2>
             <p className="mt-1 text-[12px] text-[#888880]">
               Review the traps you fell for so the pattern is visible.
             </p>

@@ -9,7 +9,7 @@ export default function HomePage() {
       <div className="space-y-12">
         <section>
           <h1 className="font-serif text-[34px] font-normal leading-[1.15] text-[#1a1a18] md:text-[44px]">
-            Bad at Math Quiz
+            bad at math quiz
           </h1>
           <div className="mt-2 text-[12px] text-[#888880]">
             reasoning traps disguised as easy math
